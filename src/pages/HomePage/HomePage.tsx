@@ -21,8 +21,6 @@ function HomePage() {
         </div>
       </div>
       <Roadmap></Roadmap>
-      <hr></hr>
-      <Footer></Footer>
       {/* <Link to="/test">Test</Link> */}
     </div>
   );
